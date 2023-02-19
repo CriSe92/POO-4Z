@@ -52,5 +52,6 @@ public class Persona {
     public static void main(String[] args){
         Persona p=new Persona("Rossi Mario",30,"Maschile","Impiegato");
         System.out.println(p.chiSei());
+  
     }
 }
